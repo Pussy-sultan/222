@@ -17,7 +17,7 @@ public class CarServiceImpl implements CarService {
         cars.add( new Car("BMW","Black", 190));
         cars.add( new Car("Mercedes-benz","White", 200));
         cars.add( new Car("Volkswagen","Blue", 220));
-        cars.add( new Car("Skoda","Green", 999));
+        cars.add( new Car("Skoda","Sparkling White", 999));
     }
 
     @Override
